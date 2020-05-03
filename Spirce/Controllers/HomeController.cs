@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SpiceProj___ASP.NET_Core_MVC.Models;
+using Spirce.Models;
 
-namespace SpiceProj___ASP.NET_Core_MVC.Controllers
+namespace Spirce.Controllers
 {
     public class HomeController : Controller
     {

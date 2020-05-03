@@ -1,6 +1,6 @@
 using System;
 
-namespace SpiceProj___ASP.NET_Core_MVC.Models
+namespace Spirce.Models
 {
     public class ErrorViewModel
     {

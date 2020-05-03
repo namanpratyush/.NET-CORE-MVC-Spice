@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace SpiceProj___ASP.NET_Core_MVC
+namespace Spirce
 {
     public class Program
     {
